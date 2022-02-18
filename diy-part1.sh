@@ -16,9 +16,8 @@
 # Add a feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
-echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
-echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
-echo 'src-git apollo https://github.com/apollo-ng/luci-theme-darkmatter' >>feeds.conf.default
-echo 'src-git rosywrt https://github.com/rosywrt/luci-theme-rosy' >>feeds.conf.default
+echo 'src-git xiaoqingfeng https://github.com/xiaoqingfengATGH/feeds-xiaoqingfeng' >>feeds.conf.default
+echo 'src-git vernesong https://github.com/vernesong/OpenClash' >>feeds.conf.default
+echo 'src-git xiaorouji https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
+echo 'src-git tty https://github.com/tty228/luci-app-serverchan' >>feeds.conf.default
 echo 'src-git destan https://github.com/destan19/OpenAppFilter' >>feeds.conf.default
-
